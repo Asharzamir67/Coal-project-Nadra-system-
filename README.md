@@ -1,1 +1,2 @@
 # Coal-project-Nadra-system-
+The cutting-edge Identity Management System (IMS) stands out as a sophisticated software solution designed to streamline the intricate processes of administering and organizing user identification data. Leveraging assembly language, specifically incorporating Irvine32 library procedures, this system boasts a range of functionalities, including creating, renewing, updating, and displaying user details linked to unique identification numbers.
